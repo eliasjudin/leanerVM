@@ -13,6 +13,7 @@ import LeanerVMTests.Protocol.Stacking
 import LeanerVMTests.Semantics.Instruction
 import LeanerVMTests.Semantics.Memory
 import LeanerVMTests.Protocol.PowerBatching
+import LeanerVMTests.Protocol.BatchingRound
 
 /-!
 # leanerVM test aggregate
