@@ -9,6 +9,7 @@ import LeanerVMTests.Semantics.Execution
 import LeanerVMTests.Parameters.Isa
 import LeanerVMTests.Protocol.Field
 import LeanerVMTests.Protocol.Fingerprint
+import LeanerVMTests.Protocol.GrandProduct
 import LeanerVMTests.Protocol.Multilinear
 import LeanerVMTests.Protocol.Stacking
 import LeanerVMTests.Semantics.Instruction
