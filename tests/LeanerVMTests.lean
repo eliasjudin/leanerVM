@@ -13,6 +13,7 @@ import LeanerVMTests.Semantics.Execution
 import LeanerVMTests.Parameters.Isa
 import LeanerVMTests.Protocol.Field
 import LeanerVMTests.Protocol.HonestSumcheck
+import LeanerVMTests.Protocol.SumcheckSecurity
 import LeanerVMTests.Semantics.Instruction
 import LeanerVMTests.Semantics.Memory
 

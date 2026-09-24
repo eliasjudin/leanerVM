@@ -26,3 +26,6 @@ import LeanerVM.Semantics.Memory
 import LeanerVM.Semantics.Step
 import LeanerVM.Protocol.Generic.HonestSumcheck
 import LeanerVM.Protocol.Generic.HonestSumcheckUpstream
+import LeanerVM.Protocol.Generic.SumcheckSecurityCore
+import LeanerVM.Protocol.Generic.SumcheckSecurityHonest
+import LeanerVM.Protocol.Generic.SumcheckSecurity
